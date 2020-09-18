@@ -1,5 +1,4 @@
-<h1 align="center">Hallo 👋, Ich bin Alvison Hunter Arnuero</h1>
-<h3 align="center">{Web Developer }: AngularJS ♥ | VueJS | ReactJS | VB .Net | Python | UX/UI Enthusiastic | Musician | Proud Father of 2 Brave Warriors.</h3>
+<h3 align="center">💻 {Web Developer } AngularJS | VueJS | ReactJS | VB.NET | VBA | C# | Go | Python's Zealot | UX/UI Enthusiastic. Linguist,Drums, Piano & Guitar. Last but not least, I am a Proud Father of 2 Brave Warriors.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvisonhunterarnuero" alt="alvisonhunterarnuero" /> </p>
 
@@ -7,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python and Golang.**
 
-- 👯 I’m looking to collaborate on **Visual Design, Graphic Design, Music Composition**
+- 👯 I’m looking to collaborate on **UX/UI, Visual, Web & Graphic Design, Music Composition**
 
 - 🤝 I’m looking for help with **OpenShift, Kubernetes, Docker Swarm**
 
@@ -15,7 +14,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@alvison](https://medium.com/@alvison)
 
-- 💬 Ask me about **AngularJS, React, Vue, Graphic Design, UX/UI**
+- 💬 Ask me about **AngularJS, React, Vue, Web & Graphic Design, UX/UI, Bootstrap**
 
 - 📫 How to reach me **alvison@gmail.com**
 
