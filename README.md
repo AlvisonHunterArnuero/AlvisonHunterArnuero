@@ -2,19 +2,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvisonhunterarnuero" alt="alvisonhunterarnuero" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React, Next, Preact**
 
 - 🌱 I’m currently learning **Python and Golang.**
 
+- 🌱 Would like to learn more of **Vuejs 3, React Native, TypeScript, Angular & .NET CORE**
+
 - 👯 I’m looking to collaborate on **UX/UI, Visual, Web & Graphic Design, Music Composition**
 
-- 🤝 I’m looking for help with **OpenShift, Kubernetes, Docker Swarm**
+- 🤝 I’m looking for help with Python **Machine Learning, Web Development, Automation & Scripting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlvisonHunterArnuero](https://github.com/AlvisonHunterArnuero)
 
 - 📝 I regulary write articles on [https://medium.com/@alvison](https://medium.com/@alvison)
 
-- 💬 Ask me about **AngularJS, React, Vue, Web & Graphic Design, UX/UI, Bootstrap**
+- 💬 Ask me about **AngularJS, React, Vue, Web & Graphic Design, UX/UI, Bootstrap 4, Semantix UI, TailwindCSS**
 
 - 📫 How to reach me **alvison@gmail.com**
 
