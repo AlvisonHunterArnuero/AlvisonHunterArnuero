@@ -1,0 +1,249 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 'Roboto', sans-serif;
+  color: #777;
+  font-size: 1rem;
+  line-height: 1.5;
+  background-color: #000;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.bgimg-0,
+.bgimg-1,
+.bgimg-2,
+.bgimg-3,
+.bgimg-4,
+.bgimg-5,
+.bgimg-6 {
+  position: relative;
+  opacity: 0.85;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bgimg-0 {
+  background-image: url('./imgs/bg00.jpg');
+  min-height: 100%;
+}
+
+.bgimg-1 {
+  background-image: url('./imgs/bg01.jpg');
+  min-height: 600px;
+}
+
+.bgimg-2 {
+  background-image: url('./imgs/bg02.jpg');
+  min-height: 600px;
+}
+
+.bgimg-3 {
+  background-image: url('./imgs/bg03.jpg');
+  min-height: 500px;
+}
+
+.bgimg-4 {
+  background-image: url('./imgs/bg04.jpg');
+  min-height: 400px;
+}
+
+.bgimg-5 {
+  background-image: url('./imgs/bg05.jpg');
+  min-height: 550px;
+}
+.bgimg-6 {
+  background-image: url('./imgs/bg06.jpg');
+  min-height: 500px;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px 'Lato', sans-serif;
+  color: #111;
+}
+
+/*----*/
+
+.categories-area .single-cat::before {
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 0;
+  background: #ff3d1c;
+  transition: 0.6s;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  border-radius: 6px;
+}
+
+.categories-area .single-cat {
+  border: 1px solid #e1ebf7;
+  border-radius: 6px;
+  padding: 61px 22px;
+  -webkit-transition: all 0.4s ease-out 0s;
+  -moz-transition: all 0.4s ease-out 0s;
+  -ms-transition: all 0.4s ease-out 0s;
+  -o-transition: all 0.4s ease-out 0s;
+  transition: all 0.4s ease-out 0s;
+  position: relative;
+  z-index: 1;
+}
+
+ul.timeline {
+  list-style-type: none;
+  position: relative;
+}
+ul.timeline:before {
+  content: ' ';
+  background: #d4d9df;
+  display: inline-block;
+  position: absolute;
+  left: 29px;
+  width: 2px;
+  height: 100%;
+  z-index: 400;
+}
+ul.timeline > li {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+ul.timeline > li:before {
+  content: ' ';
+  background: white;
+  display: inline-block;
+  position: absolute;
+  border-radius: 50%;
+  border: 3px solid #22c0e8;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 400;
+}
+
+/* for the social media boxes */
+
+.box {
+  padding: 60px 0px;
+}
+
+.box-part {
+  background: #fff;
+  border-radius: 0;
+  padding: 60px 10px;
+  margin: 30px 0px;
+}
+.text {
+  margin: 20px 0px;
+}
+
+.fa {
+  color: #0c7dc9;
+}
+
+/* Contact form Starts */
+.contact-form {
+  background: #fff;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  width: 100%;
+}
+.contact-form .form-control {
+  border-radius: 1rem;
+}
+.contact-image {
+  text-align: center;
+}
+.contact-image img {
+  border-radius: 6rem;
+  width: 11%;
+  border: 1px solid #111;
+  margin-top: -3%;
+  transform: rotate(29deg);
+}
+.contact-form form {
+  padding: 14%;
+}
+.contact-form form .row {
+  margin-bottom: -7%;
+}
+.contact-form h3 {
+  margin-bottom: 8%;
+  margin-top: -10%;
+  text-align: center;
+  color: #0062cc;
+}
+.contact-form .btnContact {
+  width: 50%;
+  border: none;
+  border-radius: 1rem;
+  padding: 1.5%;
+  background: #dc3545;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+}
+.btnContactSubmit {
+  width: 50%;
+  border-radius: 1rem;
+  padding: 1.5%;
+  color: #fff;
+  background-color: #0062cc;
+  border: none;
+  cursor: pointer;
+}
+/* Contact Form Ends*/
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+  .bgimg-1,
+  .bgimg-2,
+  .bgimg-3 {
+    background-attachment: scroll;
+  }
+}
+
+.active {
+  color: #f05454 !important;
+}
+
+.gb {
+  font-size: 0px;
+}
+
+.profile-pic {
+  border: 2px solid rgb(62, 61, 61);
+  border-radius: 50%;
+}
+.profile-pic:hover {
+  filter: grayscale(90%);
+}
