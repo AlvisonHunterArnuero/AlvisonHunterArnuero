@@ -40,17 +40,17 @@ html {
 
 .bgimg-1 {
   background-image: url('./imgs/bg01.jpg');
-  min-height: 600px;
+  min-height: 500px;
 }
 
 .bgimg-2 {
   background-image: url('./imgs/bg02.jpg');
-  min-height: 600px;
+  min-height: 500px;
 }
 
 .bgimg-3 {
   background-image: url('./imgs/bg03.jpg');
-  min-height: 500px;
+  min-height: 400px;
 }
 
 .bgimg-4 {
@@ -64,7 +64,7 @@ html {
 }
 .bgimg-6 {
   background-image: url('./imgs/bg06.jpg');
-  min-height: 500px;
+  min-height: 450px;
 }
 
 .caption {
@@ -191,7 +191,7 @@ ul.timeline > li:before {
   transform: rotate(29deg);
 }
 .contact-form form {
-  padding: 14%;
+  padding: 10%;
 }
 .contact-form form .row {
   margin-bottom: -7%;
@@ -214,8 +214,8 @@ ul.timeline > li:before {
 }
 .btnContactSubmit {
   width: 50%;
-  border-radius: 1rem;
-  padding: 1.5%;
+  border-radius: 15px;
+  padding: 2.3%;
   color: #fff;
   background-color: #0062cc;
   border: none;
@@ -241,9 +241,22 @@ ul.timeline > li:before {
 }
 
 .profile-pic {
-  border: 2px solid rgb(62, 61, 61);
+  border: 2px solid #b7b7a4;
   border-radius: 50%;
 }
 .profile-pic:hover {
   filter: grayscale(90%);
+}
+
+.grayScaleFilter:hover {
+  filter: blur(3px) grayscale(90%);
+}
+
+.socialmedialinks {
+  cursor: pointer;
+  color: #05668d;
+}
+
+.socialmedialinks:hover {
+  color: #d62828;
 }
