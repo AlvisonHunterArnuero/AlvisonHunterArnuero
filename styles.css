@@ -260,3 +260,10 @@ ul.timeline > li:before {
 .socialmedialinks:hover {
   color: #d62828;
 }
+
+.table-responsive table {
+  background-color: #ffffff !important;
+}
+.table-responsive > table > tbody > tr:nth-child(1) > td > a {
+  color: #ffffff !important;
+}
