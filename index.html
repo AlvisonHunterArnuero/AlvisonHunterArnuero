@@ -528,56 +528,31 @@
             <div class="contact-image">
               <img src="./imgs/ahunter.png" loading="lazy" alt="Alvison Hunter Arnuero" />
             </div>
-            <!-- <form id="contact-form" action="https://formspree.io/f/xzbkvqnd" method="POST"> -->
-            <form id="contact-form" action="https://www.SnapHost.com/captcha/send.aspx" method="post" id="myform"
-              target="_top">
-              <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value="alvison@gmail.com" />
-              <input type="hidden" id="skip_Subject" name="skip_Subject" value="Alvison Hunter Website" />
-              <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn"
-                value="http://alvisonhunter.atwebpages.com/thankyou.html" />
-              <input type="hidden" id="skip_SnapHostID" name="skip_SnapHostID" value="2UHS9RN5HSLZ" />
-              <h3>Drop Us a Message</h3>
-              <div class="row">
-                <div class="col-md-10">
-                  <div class="form-group">
-                    <input type="text" id="txtName" name="txtName" class="form-control" placeholder="Your Name *"
-                      value="" />
-                  </div>
-                  <div class="form-group">
-                    <input type="text" id="txtEmail" name="txtEmail" class="form-control" placeholder="Your Email *"
-                      value="" />
-                  </div>
-                  <div class="form-group">
-                    <input type="text" id="txtPhone" name="txtPhone" class="form-control"
-                      placeholder="Your Phone Number *" value="" />
-                  </div>
-                  <div class="form-group">
-                    <textarea id="txtMsg" name="txtMsg" class="form-control" placeholder="Your Message *" style="width: 100%;
-                        height: 150px;"></textarea>
+            <form id="contact-form"><h3>
+  We'd love to hear from you!
+  <small class="text-muted"> Let’s talk about your project & make something awesome together.
+  Drop us a line, or give us a heads up if you’re interested in visiting us.</small>
+</h3>
+
+              <div class="row d-flex align-items-center">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-6">
+                  <p class="h5 text-info text-center">
+                    <small>USE THE EMAIL BELOW TO DROP US AN E-MAIL.</small>
+                  </p>
+                <h2 class="text-primary text-center">
+                    <i class="fa fa-envelope" aria-hidden="true"></i> alvison<i class="fa fa-at" aria-hidden="true"></i>gmail.com
+                </h2>
+              </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-6">
+                   <p class="h5 text-info text-center">
+                     <small>OLD-FASHIONED PHONE CALLS WORK TOO.</small>
+                    </p>
+                  <h2 class="text-primary text-center">
+                    <i class="fa fa-mobile" aria-hidden="true"></i>
+                    505.8863.8751
+                  </h2>
                   </div>
 
-
-<div class="table-responsive">
-<table cellspacing="0" border="0" cellpadding="8"
-style="background-color:#ffcc66;">
-<tr><td colspan="2" style="padding-bottom:1px;">
-<a href="http://www.snaphost.com/captcha/captchaguestbook.aspx" alt="web page guestbook" title="web page guestbook" >web page guestbook</a></td></tr>
-<tr valign="bottom"><td>
-<a href="#" onclick="return ReloadCaptchaImage('CaptchaImage');"><span style="font-size:12px;">reload image</span></a><br />
-<a href="http://www.snaphost.com/captcha/"><img id="CaptchaImage"
-alt="form email" style="border-width:0px;"
-title="form email"
-src="https://www.SnapHost.com/captcha/CaptchaImage.aspx?id=JZECYLLJAQSW" /></a>
-</td><td>  <br /><i>Enter Captcha code</i><br />
-<input id="skip_CaptchaCode" name="skip_CaptchaCode" type="text"
-style="width:130px; height:48px; font-size:38px;" maxlength="6" /><br />
-</td></tr></table>
-</div>
-
-                  <div class="form-group">
-                    <input type="submit" name="btnSubmit" class="btnContactSubmit" value="SEND MESSAGE" />
-                  </div>
-                </div>
               </div>
             </form>
           </div>
@@ -598,7 +573,7 @@ style="width:130px; height:48px; font-size:38px;" maxlength="6" /><br />
                     All rights
                     reserved | Made with
                     <i class="fa fa-heart text-danger" aria-hidden="true"></i>
-                    by <a href="https://alvisonhunter.com" target="_blank">Alvison Hunter Arnuero</a>
+                    by <a href="https://alvisonhunter.com" target="_blank">Alvison Hunter Arnuero.</a>
                   </p>
               </div>
               <div class="col-xl-3 col-lg-4"><p>
@@ -634,18 +609,6 @@ style="width:130px; height:48px; font-size:38px;" maxlength="6" /><br />
           $(this).addClass("active");
         });
       }); // main function
-    </script>
-    <script type="text/javascript">
-      function ReloadCaptchaImage(captchaImageId) {
-        var obj = document.getElementById(captchaImageId);
-        var src = '' + obj.src;
-        obj.src = '';
-        var date = new Date();
-        var pos = src.indexOf('&rad=');
-        if (pos >= 0) { src = src.substr(0, pos); }
-        obj.src = src + '&rad=' + date.getTime();
-        return false;
-      }
     </script>
 </body>
 </html>
