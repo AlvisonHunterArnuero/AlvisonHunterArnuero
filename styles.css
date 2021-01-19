@@ -260,3 +260,53 @@ ul.timeline > li:before {
 .table-responsive > table > tbody > tr:nth-child(1) > td > a {
   color: #ffffff !important;
 }
+
+/* ---- Small screen config ------*/
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .mobile-view-sub-title {
+    color: #17a2b8 !important;
+    font: 15px 'Lato', sans-serif !important;
+  }
+  .display-3 {
+    color: #264653 !important;
+    font-size: 2.5rem !important;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .mobile-view-sub-title {
+    color: #17a2b8 !important;
+    font: 18px 'Lato', sans-serif !important;
+  }
+  .display-3 {
+    color: #264653 !important;
+    font-size: 3rem !important;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .display-3 {
+    color: #264653 !important;
+    font-size: 4rem !important;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .display-3 {
+    color: #264653 !important;
+    font-size: 4.5rem !important;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .display-3 {
+    color: #264653 !important;
+    font-size: 4.5rem !important;
+  }
+}
