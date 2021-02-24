@@ -249,6 +249,16 @@ hr {
 .card {
   border: none !important;
 }
+
+.tdimension {
+  border-radius: 50%;
+  transition: all 0.5s;
+}
+.tdimension:hover {
+  border: 6px dashed #286b6f;
+  filter: grayscale();
+}
+
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
   .bgimg-1,
