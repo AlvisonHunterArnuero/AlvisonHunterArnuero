@@ -256,7 +256,7 @@ hr {
 }
 .tdimension:hover {
   border: 6px dashed #286b6f;
-  filter: grayscale();
+  filter: grayscale(100%);
 }
 
 /* Turn off parallax scrolling for tablets and phones */
