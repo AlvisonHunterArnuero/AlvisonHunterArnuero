@@ -1,6 +1,6 @@
 <h1  align="center">Hi <Developers /> 👋, I'm Alvison Hunter</h1>
 
-<h3  align="center">Front-End Engineer & Content Developer</h3>
+<h3  align="center">JavaScript & Python Developer</h3>
 
 <p  align="left"> <img  src="https://komarev.com/ghpvc/?username=alvisonhunterarnuero&label=Profile%20views&color=0e75b6&style=flat"  alt="alvisonhunterarnuero" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **React | NextJS | Preact**
 
-- 🌱 I’m currently learning **TypeScript, Python for Data Science & Enhancing Vue3**
+- 🌱 I’m currently learning **TypeScript, Python for Data Science & Enhancing VueJS 3**
 
 - 👯 I’m looking to collaborate on **UX/UI Design & Python Flask**
 
