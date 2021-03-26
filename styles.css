@@ -12,7 +12,7 @@ html {
   color: #777;
   font-size: 1rem;
   line-height: 1.5;
-  background-color: #000;
+  background-color: #ffffff;
 }
 
 html {
@@ -259,6 +259,16 @@ hr {
   filter: grayscale(100%);
 }
 
+.display-3 {
+  color: #004245 !important;
+  font-size: 5.2rem !important;
+}
+.mobile-view-sub-title {
+  color: #266a85 !important;
+  font: 1.6rem 'Lato', sans-serif !important;
+  margin-bottom: 10px !important;
+}
+
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
   .bgimg-1,
@@ -306,12 +316,12 @@ hr {
 @media (max-width: 575.98px) {
   .display-3 {
     color: #1b2d56 !important;
-    font-size: 3rem !important;
+    font-size: 3.2rem !important;
   }
   .mobile-view-sub-title {
-    color: #266a85 !important;
-    font: 1.6rem 'Lato', sans-serif !important;
-    font-weight: 200 !important;
+    color: #0c081a !important;
+    font: 1.1rem 'Lato', sans-serif !important;
+    font-weight: bold !important;
   }
 
   .menu-wrapper {
@@ -332,11 +342,11 @@ hr {
 @media (min-width: 576px) and (max-width: 767.98px) {
   .display-3 {
     color: #004245 !important;
-    font-size: 3rem !important;
+    font-size: 4rem !important;
   }
   .mobile-view-sub-title {
-    color: #266a85 !important;
-    font: 2rem 'Lato', sans-serif !important;
+    color: #0c081a !important;
+    font: 1.4rem 'Lato', sans-serif !important;
     font-weight: 200 !important;
   }
 }
@@ -349,7 +359,7 @@ hr {
   }
   .mobile-view-sub-title {
     color: #266a85 !important;
-    font: 2.2rem 'Lato', sans-serif !important;
+    font: 1.6rem 'Lato', sans-serif !important;
     margin-bottom: 10px !important;
   }
 }
