@@ -1183,6 +1183,88 @@
         </div>
       </div>
     </div>
+    <hr />
+    <!-- Technologies we use START -->
+    <div class="container-fluid my-4">
+      <div class="row justified-content-center my-3">
+        <div class="col-12">
+          <h4 class="text-center text-muted text-uppercase h2 mt-4">
+            Tecnologies we use
+          </h4>
+          <p class="text-center">
+            From the early days of Clipper 5 & FoxPro 2.26, passing through
+            Borland Turbo Pascal & Borland C++, Turbo Vision and then Visual
+            basic 6 and Borland Delphi 7, coming to ASP.NET with C# and VBA for
+            O365, Google App Script, With Python and Flask and currently
+            studying Go, we are now involved with several JavaScript libraries
+            and frameworks to complete a given project. Check some of these
+            technologies out!.
+          </p>
+        </div>
+      </div>
+
+      <section class="customer-logos slider">
+        <div class="slide">
+          <img src="./imgs/slide/01.png" alt="AngularJS" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/02.png" alt="VueJS" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/03.png" alt="ReactJS" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/04.png" alt="HMTL5" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/05.png" alt="CSS3" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/06.png" alt="jQuery" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/07.png" alt="TypeScript" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/08.png" alt="NodeJS" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/09.png" alt="GraphQL" />
+        </div>
+
+        <div class="slide">
+          <img src="./imgs/slide/10.png" alt="Docker" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/11.png" alt="Python" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/12.png" alt="Flask" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/13.png" alt="Sequelize" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/14.png" alt="Google App Script" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/15.png" alt="Amazon Web Services" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/16.png" alt="PostgreSQL" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/17.png" alt="Microsoft C#" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/18.png" alt="Borland C++" />
+        </div>
+        <div class="slide">
+          <img src="./imgs/slide/19.png" alt="Golang" />
+        </div>
+      </section>
+    </div>
+    <!-- Technologies we use END -->
 
     <!-- BACK TO TOP BUTTON ROW -->
     <div class="row justify-content-center">
@@ -1370,10 +1452,64 @@
           $('.menu').removeClass('active');
           $(this).addClass('active');
         });
+        // Slider
+        $('.customer-logos').slick({
+          slidesToShow: 10,
+          slidesToScroll: 1,
+          autoplay: true,
+          autoplaySpeed: 1700,
+          arrows: false,
+          dots: false,
+          pauseOnHover: true,
+          responsive: [
+            {
+              breakpoint: 1280,
+              settings: {
+                slidesToShow: 6,
+                slidesToScroll: 2,
+              },
+            },
+            {
+              breakpoint: 1024,
+              settings: {
+                slidesToShow: 5,
+                slidesToScroll: 3,
+              },
+            },
+            {
+              breakpoint: 768,
+              settings: {
+                slidesToShow: 4,
+              },
+            },
+
+            {
+              breakpoint: 600,
+              settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+              },
+            },
+            {
+              breakpoint: 520,
+              settings: {
+                slidesToShow: 3,
+              },
+            },
+            {
+              breakpoint: 480,
+              settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2,
+              },
+            },
+          ],
+        }); // end slider
       }); // main function
     </script>
     <!-- Lazy Loading library to improve performance -->
     <script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
     <script>
       const observer = lozad('.lozad', {
         rootMargin: '10px 0px', // syntax similar to that of CSS Margin
