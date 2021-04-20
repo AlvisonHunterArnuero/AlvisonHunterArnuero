@@ -1297,7 +1297,6 @@
               />
             </div>
             <form id="contact-form">
-              <div data-aos="fade-left" data-aos-duration="1400">
                 <h5 class="h2 text-info my-4">
                   Let’s make something awesome together.
                   <small class="text-light">
@@ -1307,12 +1306,10 @@
                     the earliest convenience.</small
                   >
                 </h5>
-              </div>
 
               <hr class="my-3" />
               <div class="row d-flex align-items-center">
                 <div class="col-12 col-sm-12 col-md-12 col-lg-6">
-                  <div data-aos="zoom-in" data-aos-duration="1800">
                     <p class="h5 text-info text-center">
                       <small>USE THE EMAIL BELOW TO DROP US AN E-MAIL.</small>
                     </p>
@@ -1327,10 +1324,8 @@
                       ></i
                       >gmail.com
                     </h6>
-                  </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-12 col-lg-6">
-                  <div data-aos="zoom-in" data-aos-duration="800">
                     <p class="h5 text-info text-center">
                       <small>OLD-FASHIONED PHONE CALLS WORK TOO.</small>
                     </p>
@@ -1341,14 +1336,13 @@
                       ></i>
                       505.8863.8751
                     </h6>
-                  </div>
                 </div>
               </div>
             </form>
             <div class="row justified-content-center">
               <div class="col-12">
                 <p class="text-secondary text-center">Proudly powered by:</p>
-                <div data-aos="flip-up" data-aos-duration="1300">
+            
                   <img
                     class="mx-auto d-block mb-4"
                     src="./imgs/codecrafterslabslogo.png"
@@ -1356,7 +1350,7 @@
                     alt="CodeCraftersLabs Sponsorship"
                     title="CodeCraftersLabs Logo"
                   />
-                </div>
+          
               </div>
             </div>
           </div>
@@ -1442,11 +1436,16 @@
       integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
       crossorigin="anonymous"
     ></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+ 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
-      AOS.init();
+            AOS.init({
+        easing: 'ease-out-back',
+        duration: 1000
+      });
     </script>
+
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
     <script>
       $(document).ready(function () {
         $('.menu').click(function () {
