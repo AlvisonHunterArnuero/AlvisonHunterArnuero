@@ -42,6 +42,10 @@
 <a  href="https://www.youtube.com/channel/UCvwfo3TWSNp9ZbpmffzYXQQ"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"  alt="alvisonhunter"  height="30"  width="40" /></a>
 <a  href="https://anchor.fm/s/4e070064/podcast/rss"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg"  alt="https://anchor.fm/s/4e070064/podcast/rss"  height="30"  width="40" /></a>
 </p>
+<p>
+<a  href="https://www.codewars.com/users/alvisonhunter"  target="blank"><img  align="center"  src="https://www.codewars.com/users/alvisonhunter/badges/small"  alt="https://www.codewars.com/users/alvisonhunter"  height="300"  width="20" /></a></p>
+
+---
 
 <h3  align="left">Languages and Tools:</h3>
 
