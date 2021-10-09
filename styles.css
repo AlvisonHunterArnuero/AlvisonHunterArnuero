@@ -39,31 +39,31 @@ html {
 }
 
 .bgimg-1 {
-  background-image: url('./imgs/bg01.jpg');
+  background-image: url('https://res.cloudinary.com/alvison-hunter/image/upload/q_85/v1632155092/al-hunter-website/bg01_ti0yfs.webp');
   min-height: 500px;
 }
 
 .bgimg-2 {
-  background-image: url('./imgs/bg02.jpg');
+  background-image: url('https://res.cloudinary.com/alvison-hunter/image/upload/q_auto:low/v1632155093/al-hunter-website/bg02_uwlljw.webp');
   min-height: 500px;
 }
 
 .bgimg-3 {
-  background-image: url('./imgs/bg03.jpg');
+  background-image: url('https://res.cloudinary.com/alvison-hunter/image/upload/q_auto:low/v1632155092/al-hunter-website/bg03_awv3bz.webp');
   min-height: 400px;
 }
 
 .bgimg-4 {
-  background-image: url('./imgs/bg04.jpg');
+  background-image: url('https://res.cloudinary.com/alvison-hunter/image/upload/q_auto:low/v1632155094/al-hunter-website/bg04_yb09zt.webp');
   min-height: 400px;
 }
 
 .bgimg-5 {
-  background-image: url('./imgs/bg05.jpg');
+  background-image: url('https://res.cloudinary.com/alvison-hunter/image/upload/q_auto:low/v1632155091/al-hunter-website/bg05_zfdfsv.webp');
   min-height: 550px;
 }
 .bgimg-6 {
-  background-image: url('./imgs/bg06.jpg');
+  background-image: url('https://res.cloudinary.com/alvison-hunter/image/upload/q_auto:low/v1632155092/al-hunter-website/bg06_mdmykc.webp');
   min-height: 450px;
 }
 
