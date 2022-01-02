@@ -4,15 +4,15 @@
 <p  align="left"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=alvisonhunterarnuero"  alt="alvisonhunterarnuero" /></a> </p>
 <hr />
 <ul>
-<li> 🔭 I’m currently working with **React | NextJS | Preact | VueJS**</li>
-<li> 🌱 I’m currently learning **TypeScript, Python for Data Science & Enhancing VueJS 3**</li>
-<li> 👯 I’m looking to collaborate on **UX/UI Design & Python Flask**</li>
-<li> 🤝 I’m looking for help with **MongoDB, GraphQL, Sequelize, Django**</li>
+<li> 🔭 I’m currently working with <strong>React | NextJS | Preact | VueJS</strong></li>
+<li> 🌱 I’m currently learning <strong>TypeScript, Python for Data Science & Enhancing VueJS 3</strong></li>
+<li> 👯 I’m looking to collaborate on <strong>UX/UI Design & Python Flask</strong></li>
+<li> 🤝 I’m looking for help with <strong>MongoDB, GraphQL, Sequelize, Django</strong></li>
 <li> 📝 I regularly write articles on <a  href="https://alvisonhunter.medium.com/"  target="blank">Medium Blogs</a></li>
-<li>💬 Ask me about **Website Layout, Web Performance, SEO Optimization & Music Composition**</li>
-<li> 📫 How to reach me **alvison@gmail.com** | 505-8863-8751</li>
+<li>💬 Ask me about <strong>Website Layout, Web Performance, SEO Optimization & Music Composition</strong></li>
+<li> 📫 How to reach me <strong>alvison@gmail.com</strong> | 505-8863-8751</li>
 <li> 📄 Know about my experiences <a  href="https://linkedin.com/in/alvisonhunter/"  target="blank">https://linkedin.com/in/alvisonhunter/</a></li>
-<li>⚡ Fun fact **The first programming language (per sé) was called Fortran, and it was created in the ’50s.**</li>
+<li>⚡ Fun fact <strong>The first programming language (per sé) was called Fortran, and it was created in the ’50s.</strong></li>
 </ul>
 <hr />
 <h3  align="left">🤝🏻 &nbsp;Connect with Me</h3>
