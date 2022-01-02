@@ -8,10 +8,10 @@
 <li> 🌱 I’m currently learning **TypeScript, Python for Data Science & Enhancing VueJS 3**</li>
 <li> 👯 I’m looking to collaborate on **UX/UI Design & Python Flask**</li>
 <li> 🤝 I’m looking for help with **MongoDB, GraphQL, Sequelize, Django**</li>
-<li> 📝 I regularly write articles on [https://alvisonhunter.medium.com/](https://alvisonhunter.medium.com/)</li>
+<li> 📝 I regularly write articles on <a  href="https://alvisonhunter.medium.com/"  target="blank">Medium Blogs</a></li>
 <li>💬 Ask me about **Website Layout, Web Performance, SEO Optimization & Music Composition**</li>
 <li> 📫 How to reach me **alvison@gmail.com** | 505-8863-8751</li>
-<li> 📄 Know about my experiences [https://www.linkedin.com/in/alvison-hunter-arnuero-01512773/](https://www.linkedin.com/in/alvison-hunter-arnuero-01512773/)</li>
+<li> 📄 Know about my experiences <a  href="https://linkedin.com/in/alvisonhunter/"  target="blank">https://linkedin.com/in/alvisonhunter/</a></li>
 <li>⚡ Fun fact **The first programming language (per sé) was called Fortran, and it was created in the ’50s.**</li>
 </ul>
 <hr />
