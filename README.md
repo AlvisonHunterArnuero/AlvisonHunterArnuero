@@ -3,15 +3,17 @@
 <h3  align="center">I'm a JavaScript Developer & Python enthusiast </h3>
 <p  align="left"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=alvisonhunterarnuero"  alt="alvisonhunterarnuero" /></a> </p>
 <hr />
-- 🔭 I’m currently working with **React | NextJS | Preact | VueJS**
-- 🌱 I’m currently learning **TypeScript, Python for Data Science & Enhancing VueJS 3**
-- 👯 I’m looking to collaborate on **UX/UI Design & Python Flask**
-- 🤝 I’m looking for help with **MongoDB, GraphQL, Sequelize, Django**
-- 📝 I regularly write articles on [https://alvisonhunter.medium.com/](https://alvisonhunter.medium.com/)
-- 💬 Ask me about **Website Layout, Web Performance, SEO Optimization & Music Composition**
-- 📫 How to reach me **alvison@gmail.com** | 505-8863-8751
-- 📄 Know about my experiences [https://www.linkedin.com/in/alvison-hunter-arnuero-01512773/](https://www.linkedin.com/in/alvison-hunter-arnuero-01512773/)
-- ⚡ Fun fact **The first programming language (per sé) was called Fortran, and it was created in the ’50s.**
+<ul>
+<li> 🔭 I’m currently working with **React | NextJS | Preact | VueJS**</li>
+<li> 🌱 I’m currently learning **TypeScript, Python for Data Science & Enhancing VueJS 3**</li>
+<li> 👯 I’m looking to collaborate on **UX/UI Design & Python Flask**</li>
+<li> 🤝 I’m looking for help with **MongoDB, GraphQL, Sequelize, Django**</li>
+<li> 📝 I regularly write articles on [https://alvisonhunter.medium.com/](https://alvisonhunter.medium.com/)</li>
+<li>💬 Ask me about **Website Layout, Web Performance, SEO Optimization & Music Composition**</li>
+<li> 📫 How to reach me **alvison@gmail.com** | 505-8863-8751</li>
+<li> 📄 Know about my experiences [https://www.linkedin.com/in/alvison-hunter-arnuero-01512773/](https://www.linkedin.com/in/alvison-hunter-arnuero-01512773/)</li>
+<li>⚡ Fun fact **The first programming language (per sé) was called Fortran, and it was created in the ’50s.**</li>
+</ul>
 <hr />
 <h3  align="left">🤝🏻 &nbsp;Connect with Me</h3>
 <p  align="left"><a  href="https://codepen.io/alvisonhunter"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"  alt="alvisonhunter"  height="30"  width="40" /></a>
