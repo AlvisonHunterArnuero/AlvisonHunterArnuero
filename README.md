@@ -35,7 +35,7 @@
 
 | 👩‍🚀 | 🥷 | 👷‍♂️ | 👨‍💼 |
 | - | - | - | - |
-|<a  href="https://codepen.io/alvisonhunter"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"  alt="alvisonhunter"  height="30"  width="40" /></a>|<a  href="https://twitter.com/allwissendjager"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="allwissendjager"  height="30"  width="40" /></a>|<a  href="https://linkedin.com/in/alvison-hunter-arnuero-01512773"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="alvison-hunter-arnuero-01512773"  height="30"  width="40" /></a>|<a  href="https://stackoverflow.com/users/5009514"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"  alt="5009514"  height="30"  width="40" /></a>
+|<a  href="https://codepen.io/alvisonhunter"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"  alt="alvisonhunter"  height="30"  width="40" /></a>|<a  href="https://twitter.com/alvisonhunter"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="alvisonhunter"  height="30"  width="40" /></a>|<a  href="https://linkedin.com/in/alvison-hunter-arnuero-01512773"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="alvison-hunter-arnuero-01512773"  height="30"  width="40" /></a>|<a  href="https://stackoverflow.com/users/5009514"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"  alt="5009514"  height="30"  width="40" /></a>
 |<a  href="https://www.behance.net/alvisonhunter"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg"  alt="alvisonhunter"  height="30"  width="40" /></a>|<a  href="https://medium.com/@alvisonhunter"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  alt="@alvisonhunter"  height="30"  width="40" /></a>|<a  href="https://www.youtube.com/channel/UCvwfo3TWSNp9ZbpmffzYXQQ"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"  alt="alvisonhunter"  height="30"  width="40" /></a>|<a  href="https://anchor.fm/s/4e070064/podcast/rss"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg"  alt="https://anchor.fm/s/4e070064/podcast/rss"  height="30"  width="40" /></a>|
 
 <hr />
@@ -47,7 +47,7 @@
 
 <p  align="center"> <img  src="https://komarev.com/ghpvc/?username=alvisonhunterarnuero&label=Profile%20views&color=0e75b6&style=flat"  alt="alvisonhunterarnuero" /> </p>
 
-<p  align="center"> <a  href="https://twitter.com/allwissendjager"  target="blank"><img  src="https://img.shields.io/twitter/follow/allwissendjager?logo=twitter&style=for-the-badge"  alt="allwissendjager" /></a> </p>
+<p  align="center"> <a  href="https://twitter.com/alvisonhunter"  target="blank"><img  src="https://img.shields.io/twitter/follow/alvisonhunter?logo=twitter&style=for-the-badge"  alt="alvisonhunter" /></a> </p>
 
 <p  align="center"><a  href="https://www.codewars.com/users/alvisonhunter"  target="blank"><img  src="https://www.codewars.com/users/alvisonhunter/badges/large"  alt="Alvison Hunter Profile"></a></p>
 
