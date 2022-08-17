@@ -3,7 +3,7 @@
 
 <h3  align="center">I'm a JavaScript Developer & Python enthusiast </h3>
 
-<p  align="left"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=alvisonhunterarnuero&no-bg=true&no-frame=true&column=6&margin-h=10&margin-w=15&title=Stars,Followers,Commit,Repo,PR, MultiLanguage"  alt="alvisonhunterarnuero" /></a> </p>
+<p  align="left">[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p>
 <hr />
 <ul>
 
