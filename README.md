@@ -1,9 +1,7 @@
 
 <h1  align="center">👋 Howdy Folks, Name's Alvison!</h1>
 
-<h3  align="center">I'm a JavaScript Developer & Python enthusiast </h3>
-
-<p  align="left">[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<h2  align="center">I'm a JavaScript Developer & Python enthusiast </h2>
 <hr />
 <ul>
 
