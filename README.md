@@ -9,11 +9,12 @@
 
 <li> 🌱 I’m currently learning <strong>TypeScript, Python for Data Science, Golang & Enhancing VueJS 3</strong></li>
 
-<li> 👯 I’m looking to collaborate on <strong>UX/UI Design & Python Flask</strong></li>
+<li> 👯 I’m looking to collaborate on <strong>UX/UI Design, Music Composition & Python with Flask</strong></li>
 
-<li> 🤝 I’m looking for help with <strong>MongoDB, GraphQL, Sequelize, Django</strong></li>
+<li> 🤝 I’m looking for help with <strong>MongoDB, GraphQL, Sequelize, Django, Flutter</strong></li>
 
-<li> 📝 I regularly write technical articles on <a  href="https://alvisonhunter.medium.com/"  target="blank">Medium</a> and on <a  href="https://dev.to/alvisonhunter"  target="blank">Dev.to</a> Blogs</li>
+<li> 📝 I regularly write technical articles on <a  href="https://dev.to/alvisonhunter"  target="blank">Dev.to</a>, <a  href="https://alvisonhunter.medium.com/"  target="blank">Medium</a> and <a  href="https://alvisonhunter.hashnode.dev/" target="blank">HashNode</a>
+</li>
 
 <li>💬 Ask me about <strong>Website Layout, Web Performance, SEO Optimization & Music Composition</strong></li>
 
