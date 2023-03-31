@@ -5,7 +5,7 @@
 <hr />
 <ul>
 
-<li> 🔭 I’m currently working with <strong>React | NextJS | Preact | Gatsby | Zendesk | Genesys Cloud | LivePerson</strong></li>
+<li> 🔭 I’m currently working with <strong>React | NextJS | Preact | Gatsby | Zendesk | Genesys Cloud | LivePerson | HubSpot | WordPress</strong></li>
 
 <li> 🌱 I’m currently learning <strong>TypeScript, Python for Data Science, Golang & Enhancing VueJS 3</strong></li>
 
