@@ -7,7 +7,7 @@
 
 <li> 🔭 Experience with <strong>React | Next | Preact | Gatsby | Zendesk | Genesys Cloud | LivePerson | HubSpot | WordPress</strong></li>
 
-<li> 🌱 I’m currently learning <strong>TypeScript, Python for Data Science, Golang & Enhancing VueJS 3</strong></li>
+<li> 🌱 I’m currently learning <strong>Golang, Python for Data Science, Enhancing VueJS 3 & TypeScript</strong></li>
 
 <li> 👯 I’m looking to collaborate on <strong>UX/UI Design, Music Composition & Python with Flask</strong></li>
 
