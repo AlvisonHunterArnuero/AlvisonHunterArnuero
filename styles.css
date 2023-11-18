@@ -281,6 +281,7 @@ hr {
 .profile-pic {
   border: 2px solid #b7b7a4;
   border-radius: 50%;
+  max-width: 200px;
 }
 .profile-pic:hover {
   filter: grayscale(90%);
