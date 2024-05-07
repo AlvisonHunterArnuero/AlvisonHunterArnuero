@@ -1,18 +1,17 @@
 ![image](https://github.com/AlvisonHunterArnuero/AlvisonHunterArnuero/assets/54810071/4ce44b42-3f2e-4566-b327-53f19d44a695)
 
-<h1  align="center">👋 Howdy Folks, Name's Alvison!</h1>
-
-<h2  align="center">I'm a JavaScript Developer & Python enthusiast </h2>
+<h1  align="center">👋 Howdy Folks, Name's Alvison Hunter!</h1>
+<h2  align="center">I'm a JavaScript Developer & Python enthusiast</h2>
 <hr />
 <ul>
 
-<li> 🔭 Experience with <strong>React | Next | Preact | Gatsby | Zendesk | Genesys Cloud | LivePerson | HubSpot | WordPress</strong></li>
+<li> 🔭 Experience with <strong>React | Next | Preact | Gatsby | Zendesk | Genesys Cloud | LivePerson | HubSpot | WordPress | TypeScript | MongoDB | PostgreSQL | GraphQL | Flask | Contentful | Strapi | KeyStones | Python </strong></li>
 
-<li> 🌱 I’m currently learning <strong>Go, Machine Learning, Data Science, VueJS 3 & TypeScript</strong></li>
+<li> 🌱 Currently deepening my understanding of <strong>Golang, Machine Learning & Data Science</strong></li>
 
-<li> 👯 I’m looking to collaborate on <strong>UX/UI Design, Music Composition & Python with Flask</strong></li>
+<li> 👯 Looking to collaborate on <strong>UX/UI Design, Music Composition & Python|Flask</strong></li>
 
-<li> 🤝 I’m looking for help with <strong>MongoDB, GraphQL, Sequelize, Django, Flutter</strong></li>
+<li> 🤝 Seeking assistance with <strong>FastAPI, Sequelize, Django, Flutter & Dart</strong></li>
 
 <li> 📝 I regularly write technical articles on <a  href="https://dev.to/alvisonhunter"  target="blank">Dev.to</a>, <a  href="https://alvisonhunter.medium.com/"  target="blank">Medium</a> and <a  href="https://alvisonhunter.hashnode.dev/" target="blank">HashNode</a>
 </li>
