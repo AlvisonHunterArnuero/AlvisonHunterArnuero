@@ -35,7 +35,7 @@ html {
 }
 
 .bgimg-0 {
-  background-image: url('https: //res.cloudinary.com/alvison-hunter/image/upload/q_59/v1720541541/al-hunter-website/bg00.webp');
+  background-image: url('https://res.cloudinary.com/alvison-hunter/image/upload/q_59/v1720541541/al-hunter-website/bg00.webp');
   min-height: 100%;
 }
 
@@ -283,7 +283,6 @@ hr {
 
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
-
   .bgimg-1,
   .bgimg-2,
   .bgimg-3 {
@@ -364,6 +363,9 @@ hr {
   .menu {
     font-size: 1rem !important;
   }
+.bgimg-0 {
+  background: transparent;
+}
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -390,7 +392,6 @@ hr {
   .mobile-view-sub-title {
     color: #266a85 !important;
     font: 1.6rem 'Lato', sans-serif !important;
-    margin-bottom: 10px !important;
   }
 }
 
