@@ -313,7 +313,7 @@ hr {
 }
 
 .grayScaleFilter:hover {
-  filter: blur(3px) grayscale(30%);
+  filter: blur(3px) grayscale(40%);
 }
 
 
