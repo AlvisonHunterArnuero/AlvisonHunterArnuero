@@ -35,7 +35,7 @@ html {
 }
 
 .bgimg-0 {
-  background-image: url('https://res.cloudinary.com/alvison-hunter/image/upload/v1731655228/al-hunter-website/bg00b_fn2ipd.jpg');
+  background-image: url('./imgs/bg00.jpg');
   min-height: 100%;
 }
 
@@ -283,6 +283,7 @@ hr {
 
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
+
   .bgimg-1,
   .bgimg-2,
   .bgimg-3 {
@@ -363,9 +364,10 @@ hr {
   .menu {
     font-size: 1rem !important;
   }
-.bgimg-0 {
-  background: transparent;
-}
+
+  .bgimg-0 {
+    background: transparent;
+  }
 }
 
 /* Small devices (landscape phones, 576px and up) */
