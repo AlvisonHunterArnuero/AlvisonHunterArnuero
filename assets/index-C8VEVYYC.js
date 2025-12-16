@@ -2416,13 +2416,16 @@ slug: nextjs-15-server-actions-deep-dive
 description: Server Actions allow you to run server-side code directly from client components, simplifying forms, state management, and API calls in Next.js 15.
 image: /images/server-actions-thumb.png
 ---
-## Wait… What the Heck Are Server Actions in NextJS?
-**This is a perfectly valid question.** Let’s take a moment to address it.
+**Ever heard of NextJS Server Actions?** It’s one of those buzzwords floating around modern web development—but what does it really mean? If you’re curious (or just a bit lost), let me share my quick take on it:
+
+#### Wait… What the Heck Are Server Actions in NextJS?
+**This is a perfectly valid first question.** Let’s take a moment to address it.
 
 A **Server Action** is simply an async function marked with the 'use server' directive. This directive tells Next.js to treat the function as a secure, server-only endpoint.
 
 **Think of Server Actions like this:**
 Instead of sending a letter (API request) to another building (API route), you’re now talking directly to the person in the next room (the server).
+
 **Before Server Actions, a simple form required:**
 - A form
 - A fetch call
@@ -2442,11 +2445,11 @@ Instead of sending a letter (API request) to another building (API route), you�
 - Easier to reason about
 - More accessible
 
-## Eliminating the API Route Middleman with Server Actions
+#### Eliminating the API Route Middleman with Server Actions
 
 **Next.js 15** fully embraces React **Server Actions**, transforming how full-stack developers manage data mutations. Instead of creating and maintaining separate API routes (/api/*) for simple form submissions, you can now run secure, server-side logic directly from your components, reducing boilerplate, simplifying architecture, and making full-stack development feel more seamless than ever.
 
-Next.js 15 takes a huge leap forward by fully embracing React Server Actions, changing the way Full-Stack Developers handle data mutations.
+**Next.js 15** takes a huge leap forward by fully embracing React Server Actions, changing the way Full-Stack Developers handle data mutations.
 
 **But what does that actually mean?**
 > Instead of creating separate API Routes (like /api/*) just to handle simple form submissions or small server-side tasks, you can now execute secure server-side logic directly from your component code. Yes—your components can talk to the server without needing extra API endpoints for internal operations.
@@ -2457,16 +2460,6 @@ Next.js 15 takes a huge leap forward by fully embracing React Server Actions, ch
 - You still need API routes when you want to expose data publicly or allow third-party clients to interact with your backend.
 
 This change simplifies development, reduces boilerplate, and keeps your server logic tightly connected to your components—making Full-Stack coding more intuitive than ever.
-
-**Where should this live within the app’s folder structure?**
-A clean and scalable approach is to organize it under a dedicated **Server Actions** directory, structured like this:
-\`\`\`text
-src/
- ├─ actions/
- │   └─ post.ts        // Server Action (server-only)
- └─ components/
-     └─ NewPostForm.tsx // Client Component
-\`\`\`
 
 ### How to Define and Use a Server Action
 As mentioned earlier in this article, a **Server Action** is simply an \`async\` function that includes the \`'use server'\` directive. This directive signals to Next.js that the function must run **exclusively on the server**, allowing it to act as a secure, server-only endpoint.
@@ -2602,7 +2595,7 @@ export default function NewPostForm() {
 
 Here’s a cleaner, more engaging, and beginner-friendly enhancement while keeping the concept crystal clear and accurate:
 
-----------
+***
 
 ## Why \`useActionState\` Is a Big Deal (Beginner-Friendly Analogy)
 
@@ -2625,7 +2618,8 @@ This approach is called **progressive enhancement** — you start with a solid, 
 
 In short, \`useActionState\` helps you build apps that **work first**, then get better — instead of breaking when JavaScript isn’t perfect.
 
----
+***
+
 ### What You Learned
 By leveraging useActionState, the form gets progressive enhancement by default, meaning it works even if JavaScript is disabled—a key win for accessibility and reliability in modern Web Development.
 
@@ -2646,7 +2640,9 @@ The Server Action pattern is central to the full-stack architecture espoused by 
 - Public APIs
 - Third-party integrations
 - External clients (mobile apps, etc.)
----
+
+***
+
 ### About the Author
 
 **[Alvison Hunter](https://alvisonhunter.com/)** is a **Full-Stack Software Engineer** with strong specialization in **frontend engineering** and **modern JavaScript ecosystems**. He builds fast, scalable, and SEO-optimized web applications using **React, Next.js, Vue, Node.js**, and cloud-native architectures.
