@@ -2418,8 +2418,8 @@ image: /images/server-actions-thumb.png
 ---
 **Ever heard of NextJS Server Actions?** It’s one of those buzzwords floating around modern web development—but what does it really mean? If you’re curious (or just a bit lost), let me share my quick take on it:
 
-#### Wait… What the Heck Are Server Actions in NextJS?
-**This is a perfectly valid first question.** Let’s take a moment to address it.
+**Wait… What the Heck Are Server Actions in NextJS?**
+This is a perfectly valid first question. Let’s take a moment to address it.
 
 A **Server Action** is simply an async function marked with the 'use server' directive. This directive tells Next.js to treat the function as a secure, server-only endpoint.
 
@@ -2445,7 +2445,7 @@ Instead of sending a letter (API request) to another building (API route), you�
 - Easier to reason about
 - More accessible
 
-#### Eliminating the API Route Middleman with Server Actions
+### Eliminating API Route Middleman with Server Actions
 
 **Next.js 15** fully embraces React **Server Actions**, transforming how full-stack developers manage data mutations. Instead of creating and maintaining separate API routes (/api/*) for simple form submissions, you can now run secure, server-side logic directly from your components, reducing boilerplate, simplifying architecture, and making full-stack development feel more seamless than ever.
 
@@ -2467,8 +2467,7 @@ As mentioned earlier in this article, a **Server Action** is simply an \`async\`
 As a result, the code is never exposed to the browser, making it ideal for handling sensitive logic such as database operations, authentication, or form submissions.
 
 #### 1. Define the Action (Server Code)
-
-**Where should this live within the app’s folder structure?**
+Where should this live within the app’s folder structure?
 
 For a clean, centralized, maintainable, and scalable setup, it’s best to place it in a dedicated Server Actions directory. This keeps your server-only logic separate from client components, your codebase clean, modular, and easy to maintain and makes your project easier to navigate. For example:
 
@@ -2523,7 +2522,7 @@ export async function createNewPost(
 }
 \`\`\`
 
-### Why This Method Is **Effective and Secure**
+**Why This Method Is Effective and Secure**
 -   Executes **exclusively on the server**, never in the browser
 -   Database credentials remain **fully protected** and are never exposed
 -   Eliminates the need for **custom API routes**, reducing complexity
@@ -2532,8 +2531,9 @@ export async function createNewPost(
 
 This approach results in cleaner architecture, improved security, and better performance with minimal overhead.
 
-## Client Component: Triggering Server Actions from the UI
-### \`components/NewPostForm.tsx\`
+#### Client Component: Triggering Server Actions from the UI
+\`components/NewPostForm.tsx\`
+
 \`\`\`typescript
 "use client";
 
@@ -2586,27 +2586,24 @@ export default function NewPostForm() {
 }
 
 \`\`\`
-### Why this method works well?
--   **“Client Component”** → clearly signals \`use client\`
--   **“Triggering Server Actions”** → aligns with modern **Next.js App Router** concepts
--   **“from the UI”** → beginner-friendly and descriptive
--   Keeps the heading **clean, semantic, and SEO-friendly**
-
-
-Here’s a cleaner, more engaging, and beginner-friendly enhancement while keeping the concept crystal clear and accurate:
+**Why this method works well?**
+- **“Client Component”** → clearly signals \`use client\`
+- **“Triggering Server Actions”** → aligns with modern **Next.js App Router** concepts
+- **“from the UI”** → beginner-friendly and descriptive
+- Keeps the heading **clean, semantic, and SEO-friendly**
 
 ***
 
-## Why \`useActionState\` Is a Big Deal (Beginner-Friendly Analogy)
+**Why \`useActionState\` Is a Big Deal with Server Actions?**
 
 Imagine filling out and submitting a form on a website.
 -   **Without Server Actions** → Everything depends on JavaScript.
     If JavaScript fails to load, errors out, or is blocked, the form simply **doesn’t work**.
 -   **With Server Actions** → The browser can submit the form **directly to the server**, even if JavaScript is slow or completely unavailable.
 
-This approach is called **progressive enhancement** — you start with a solid, reliable experience, then layer on JavaScript for extra interactivity instead of making it a requirement.
+This approach is called **[progressive enhancement](https://nextjs.org/docs/app/getting-started/updating-data)** — you start with a solid, reliable experience, then layer on JavaScript for extra interactivity instead of making it a requirement.
 
-### Why This Matters
+**Why This Matters**
 - **Better accessibility**
     Works naturally with screen readers and assistive technologies.
 -  **More inclusive**
@@ -2621,9 +2618,9 @@ In short, \`useActionState\` helps you build apps that **work first**, then get 
 ***
 
 ### What You Learned
-By leveraging useActionState, the form gets progressive enhancement by default, meaning it works even if JavaScript is disabled—a key win for accessibility and reliability in modern Web Development.
+By leveraging [useActionState](https://react.dev/reference/react/useActionState), the form gets progressive enhancement by default, meaning it works even if JavaScript is disabled—a key win for accessibility and reliability in modern Web Development.
 
-The Server Action pattern is central to the full-stack architecture espoused by most modern developers nowadays.
+The **Server Action** pattern is central to the full-stack architecture espoused by most modern developers nowadays.
 
 - **Server Actions** let you run server code directly from forms
 - You no longer need \`/api\` routes for simple mutations
@@ -2656,7 +2653,8 @@ With a deep focus on **clean UI design**, **performance**, and **maintainable co
 - **Dev.to:** https://dev.to/alvisonhunter
 - **Hashnode:** https://hashnode.com/@alvisonhunter
 - **Behance:** https://www.behance.net/alvisonhunter
-- **Pexels:** https://www.pexels.com/@alvisonhunter/`,__vite_glob_0_10=`---
+- **Pexels:** https://www.pexels.com/@alvisonhunter/
+`,__vite_glob_0_10=`---
 title: NextJS 15 SSR Fundamentals—Streaming, Server Components, and the App Router
 date: 2025-08-01
 author: Alvison Hunter
