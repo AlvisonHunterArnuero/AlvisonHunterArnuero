@@ -100,6 +100,10 @@ Topics include:
 ![GitHub followers](https://img.shields.io/github/followers/AlvisonHunterArnuero)
 ![GitHub User's stars](https://img.shields.io/github/stars/AlvisonHunterArnuero)
 
-<p><img align="center" src="https://gh-readme-profile.vercel.app/api?username=AlvisonHunterArnuero&theme=dark&show=reviews" alt="AlvisonHunterArnuero" /></p>
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AlvisonHunterArnuero&theme=dark)
+
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=DarthSavageOpress&theme=dark)
+
+
 
 <p align="left">✨ <i>Always building. Always learning. Always refining the craft.</i> 🥷</p>
