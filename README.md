@@ -18,7 +18,7 @@ I architect and build high-performance, scalable web interfaces that balance
 - ⚛️ Expert in **React, Next.js, TypeScript & modern UI ecosystems**
 - 👥 Former **Head of Web Development**, leading teams & mentoring engineers
 - 🌐 Founder of **CodeCrafters Labs** (client-facing production systems)
-- 🎸 Musician, polyglot & lifelong learner
+- 🎸 Music Zealot, polyglot & lifelong learner
 ---
 
 ## 🛠️ Primary Tech Stack (2025 Focus)
