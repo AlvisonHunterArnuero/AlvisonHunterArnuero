@@ -1,0 +1,281 @@
+# Alvison Hunter Arnuero — Full Profile
+
+> AI-Integrated Full-Stack Engineer with 10+ years of experience designing and delivering scalable, high-performance web platforms across healthcare, insurance, GovTech, and SaaS. Specializes in React, Next.js, TypeScript, Node.js, Python, LangChain, and AWS cloud-native architectures. Available for remote work worldwide, with relocation possibilities.
+
+---
+
+## About
+
+Alvison Lucas Hunter Arnuero (preferred: Alvie) is a senior software engineer and founder based in Jinotepe, Carazo, Nicaragua. He has over 10 years of professional experience building production-grade web platforms for U.S. and European companies in remote Agile environments.
+
+His career spans healthcare technology, insurance automation, U.S. government platforms, EdTech, real estate, logistics, and enterprise SaaS. He is known for architecture-first thinking, full-stack ownership from UI to database schema, and a strong focus on developer experience and long-term system maintainability.
+
+He is the founder and Head of Web Development at CodeCrafters Labs, a web development and SEO agency in Nicaragua that has trained over a dozen junior developers through a structured mentoring program.
+
+He is actively deepening his expertise in LLM integration, AI-augmented development workflows using Claude Code, Cursor, and AntiGravity, and advanced use of the Anthropic API and LangChain (Python) for production AI features.
+
+---
+
+## Contact & Profiles
+
+- **Email:** alvison@gmail.com
+- **Phone:** +505 8863 8751
+- **Location:** Jinotepe, Carazo, Nicaragua (Remote Worldwide — open to relocation)
+- **LinkedIn:** https://www.linkedin.com/in/alvisonhunter
+- **GitHub:** https://github.com/AlvisonHunterArnuero
+- **Portfolio:** https://alvisonhunter.com
+- **Agency:** https://codecrafterslabs.com
+- **Dev.to:** https://dev.to/alvisonhunter
+- **Medium:** https://alvisonhunter.medium.com
+- **Hashnode:** https://alvisonhunter.hashnode.dev
+- **Behance:** https://www.behance.net/alvisonhunter
+
+---
+
+## Technical Skills — Full Detail
+
+### Frontend Engineering
+- React, Next.js (App Router, Server Actions, Partial Prerendering), TypeScript, JavaScript (ES6+)
+- Vue.js 3, AngularJS, EmberJS, Gatsby, Preact
+- HTML5, CSS3, Responsive UI Architecture, Accessibility (WCAG AA)
+
+### UI Frameworks & Design Systems
+- TailwindCSS, ShadCN/UI, Mantine, Material UI (MUI 7), Ant Design, Bootstrap 5
+- Storybook 8, Component-Driven Development, Design System Architecture
+
+### State Management & Data Layer
+- Redux, React Context, TanStack Query (React Query)
+
+### Backend Engineering
+- Node.js, Fastify, Express
+- Python (FastAPI, Flask)
+- REST API Architecture, GraphQL
+- JWT Authentication & Security, Role-Based Access Control (RBAC)
+
+### Databases & ORM
+- PostgreSQL, MySQL, MongoDB, SQL Server
+- Prisma ORM, Drizzle ORM, Objection.js, Knex.js
+- Redis, Elasticsearch, DynamoDB, Firebase Firestore
+
+### AI / LLM Tools & Integration
+- Anthropic API (Claude Opus/Sonnet — advanced usage, tool calling, multi-turn flows)
+- OpenAI API (GPT-4o, structured outputs, function calling)
+- LangChain (Python) — chains, RAG pipelines, tool-calling agents, memory management
+- Claude Code (daily driver), Cursor, Kiro, AntiGravity
+- Vibe coding tools: v0, Bolt, Lovable, Taskade
+- MCP Servers, AI Agent architecture, multi-model pipelines
+- Model exploration: DeepSeek v4, MiMo-v2.5, Gemini, Diffusion models, OpenAI OSS, Llama, Mistral
+
+### Cloud & DevOps
+- AWS: EC2, S3, Amplify, Lambda, CloudFront, Route 53
+- Docker, CI/CD Pipelines, GitHub Actions
+- Vite, Webpack, Nx Monorepo, Serverless Architectures
+
+### Testing
+- Playwright, Jest, React Testing Library, Cypress, Enzyme
+- Backend Unit Testing
+
+### Third-Party Integrations
+- DocuSign, HubSpot, Salesforce, Zendesk, LivePerson, Genesys Cloud
+- DeepL Translation API, Amplitude, Datadog, Sentry
+- Firebase, Intercom Messenger API
+
+### Headless CMS
+- Contentful, Strapi, Sanity, KeystoneJS, NetlifyCMS, Storyblok, WordPress
+
+---
+
+## Professional Experience — Full Detail
+
+### Uniguest — pCare Interactive Patient Care System
+**Role:** Freelance Software Engineer
+**Period:** January 2025 – Present
+**Domain:** Healthcare Technology
+
+Providing engineering support optimizing and scaling a hospital patient engagement platform that transforms patient-room televisions into a mission-critical integrated hub for communication and EHR services.
+
+Key contributions:
+- Developed modules supporting Interactive Patient TV and digital whiteboards across hundreds of hospital rooms
+- Integrated hospital services including EHR systems and telepresence tools, improving communication reliability
+- Engineered multi-language interactive surveys (EVS & Stroke) using XML-based UI components and secure PIN-mapping configurations
+- Supported large-scale digital hospital transformation initiatives serving thousands of daily patients
+
+---
+
+### MGT Insurance
+**Role:** Senior Web Application Developer
+**Period:** January 2025 – Present
+**Domain:** Insurance Automation
+
+Architecting a modern insurance automation platform designed to streamline internal workflows and client onboarding.
+
+Key contributions:
+- Built scalable Next.js 15 + TypeScript application architecture with Prisma ORM for clean database access patterns
+- Developed complex multi-step form systems handling insurance workflows with Formik, Yup, and MUI 7
+- Integrated DocuSign and HubSpot APIs for end-to-end document automation and CRM synchronization
+- Improved UI consistency and component reuse through a shared design system backed by Storybook 8
+
+---
+
+### Udemy
+**Role:** Senior Web Application Developer
+**Period:** July 2024 – January 2025
+**Domain:** EdTech
+
+Contributed to internal infrastructure supporting platform modernization within a Python + React monorepo.
+
+Key contributions:
+- Built a Next.js application layer inside a large-scale Python/React monorepo serving millions of learners
+- Improved internal lead processing systems and data pipelines, accelerating campaign delivery cycles
+- Delivered foundational architecture components adopted as standards for upcoming platform releases
+
+---
+
+### Allied Global Technology Services — Amni AI
+**Role:** Senior Web Developer
+**Period:** June 2024 – July 2024
+**Domain:** Logistics / Supply-Chain Intelligence
+
+Key contributions:
+- Built responsive interfaces using Next.js 13 and TypeScript with Drizzle ORM for type-safe database operations
+- Implemented secure JWT authentication workflows and role-based access across the platform
+- Integrated frontend applications with AWS Amplify and SST services, deploying on EC2 and CloudFront
+
+---
+
+### Allied Global Technology Services — Catalis
+**Role:** Senior Software Engineer
+**Period:** October 2023 – June 2024
+**Domain:** GovTech — U.S. State Agency Platforms
+
+Key contributions:
+- Refactored application architecture across multiple government portals, reducing technical debt
+- Improved frontend performance metrics by an average of 35% across platform modules
+- Ensured compliance with government software accessibility and security standards (WCAG, OWASP)
+
+---
+
+### Applaudo — Truehold
+**Role:** Senior Frontend Developer
+**Period:** March 2023 – October 2023
+**Domain:** Real Estate
+
+Key contributions:
+- Built scalable applications using React, Next.js, and TypeScript inside a multi-repo Nx workspace
+- Improved accessibility (WCAG AA) and Core Web Vitals scores across the customer-facing platform
+- Optimized developer workflows by implementing shared component libraries and CI/CD automations
+
+---
+
+### Semy
+**Role:** Senior Full-Stack Software Engineer
+**Period:** November 2022 – February 2023
+**Location:** Chicago, Illinois, USA — Remote
+**Domain:** Social E-Commerce
+
+Developed the web version of a social e-commerce platform enabling users and businesses to send personalized gifts with messages, expanding the reach and functionality of the existing mobile app.
+
+Key contributions:
+- Built the responsive web application using React and Firebase
+- Architected real-time data flows using Firebase Firestore for live order status and gift message delivery
+- Collaborated with the mobile team to ensure feature parity and consistent UX across platforms
+
+---
+
+### Applaudo — Chatlingual
+**Role:** Senior Frontend Developer
+**Period:** August 2021 – December 2022
+**Domain:** Enterprise Multilingual Messaging
+
+Key contributions:
+- Integrated Salesforce, LivePerson, Genesys Cloud, and Zendesk into a unified messaging interface
+- Implemented DeepL translation API workflows enabling real-time multilingual customer support
+- Improved platform reliability and reduced integration-related incidents through systematic error handling
+
+---
+
+### Microsoft
+**Role:** Reporting Analyst
+**Period:** October 2017 – September 2019
+**Location:** Managua, Nicaragua — Remote
+
+Key contributions:
+- Automated reporting pipelines using Python and VBA scripts, saving 20+ hours per week in manual data processing
+- Built and maintained dashboards to track operational KPIs across internal business units
+- Collaborated with cross-functional teams to standardize data reporting formats and delivery schedules
+
+---
+
+### CareerBuilder
+**Role:** UI/UX Designer & Motion Designer
+**Period:** April 2013 – September 2017
+
+Key contributions:
+- Designed 50+ client website templates and UI prototypes, increasing average user engagement by 30%
+- Storyboarded and produced After Effects animations and Adobe Premiere video assets for client campaigns
+- Led end-to-end website quality assessments covering source code, CSS, JS/PHP, responsive design, and SEO
+
+---
+
+## Early Career (2001–2013)
+
+- **InfoSystem/CGA Solutions** — Co-founder & Software Developer (2003–2006): Led software development team across Gym, Pharmacy POS, and Dentist Appointment systems. Improved system performance by 25%.
+- **RE/MAX** — Graphic Web Designer (2003–2005): Designed marketing assets for 350+ real estate listings.
+- **Quattro Signs & Graphics** — WordPress Developer (2008–2009): Maintained WordPress client sites.
+- **Accedo Technologies** — Workforce Lead (2010–2012): Managed workforce optimization using WFO software.
+- **SMBS Solutions / CodeCrafters Labs** — Head of Web Development & Team Lead (2013–2021): Led a team of 9 developers, improved issue resolution velocity by 40%.
+
+---
+
+## Education
+
+- **Bachelor of Technology, Computer Programming** — Universidad Nacional de Ingeniería, Nicaragua
+- **Associate of Science, Information Technology** — Latam Technologies
+- **Associate of Science, IT Administration & Management** — INTAE, Nicaragua
+
+---
+
+## Certifications
+
+- AWS Certified Cloud Practitioner — Amazon Web Services
+- Cisco Introduction to Cybersecurity — Cisco Networking Academy
+- Python for Everybody Specialization — University of Michigan (Coursera)
+- Python Development Professional Certification — Institute of Management, Technology & Finance
+- CEO Executive Certification — Institute of Management, Technology & Finance
+- CTO Executive Certification — Institute of Management, Technology & Finance
+- Scrum Foundation Professional Certificate (SFPC) — CertiProf
+
+---
+
+## Languages
+
+| Language | Level |
+|---|---|
+| Spanish | Native (C2) |
+| English | Fluent (C2) |
+| French | Professional (B2) |
+| Portuguese | Professional (B2) |
+| Italian | Professional (B1) |
+| German | Working Proficiency (B1) |
+| Mandarin Chinese | Currently Learning (A1) |
+| Dutch | Currently Learning |
+| Swedish | Currently Learning |
+
+---
+
+## Current Learning & Exploration (2026)
+
+- **LLMs & AI Agents:** LangChain advanced patterns, RAG pipelines, tool-calling agents, MCP Server architecture, multi-agent orchestration
+- **Models:** Anthropic Claude (Opus/Sonnet advanced usage), OpenAI GPT-4o, DeepSeek v4, MiMo-v2.5, Gemini, Diffusion models, OpenAI OSS (Llama, Mistral, Phi-4)
+- **Daily AI tools:** Claude Code, Cursor, AntiGravity, v0, Bolt, Lovable, Taskade
+- **Programming languages:** Golang, Elixir, Ruby
+- **World languages:** Mandarin Chinese, Dutch, Swedish
+
+---
+
+## Personal
+
+- Father of two sons: Declan Jaleel and Liam André
+- Plays guitar and piano
+- Enjoys video games
+- Hosts and contributes to a Spanish spiritual reflections podcast for both evangelical and non-evangelical audiences

@@ -1,0 +1,159 @@
+{
+    "$schema": "https://aiia.ro/schemas/ai-agent-json/v1.json",
+    "spec_version": "1.0",
+    "last_updated": "2026-06-02",
+  
+    "name": "Alvison Hunter — AI-Integrated Full-Stack Engineer",
+    "description": "AI-Integrated Full-Stack Engineer with 10+ years of experience delivering scalable web platforms across healthcare, insurance, GovTech, and SaaS. Expert in React, Next.js, TypeScript, Node.js, Python, LangChain, and AWS. Available for remote work worldwide.",
+  
+    "entity": {
+      "type": "person",
+      "full_name": "Alvison Lucas Hunter Arnuero",
+      "preferred_name": "Alvie",
+      "title": "AI-Integrated Full-Stack Engineer",
+      "organization": "CodeCrafters Labs",
+      "location": {
+        "city": "Jinotepe",
+        "region": "Carazo",
+        "country": "Nicaragua",
+        "country_code": "NI",
+        "remote": true,
+        "open_to_relocation": true
+      },
+      "availability": "open-to-work",
+      "employment_type": ["full-time", "contract", "freelance"]
+    },
+  
+    "contact": {
+      "email": "alvison@gmail.com",
+      "phone": "+50588638751",
+      "preferred_channel": "email"
+    },
+  
+    "urls": {
+      "portfolio": "https://alvisonhunter.com",
+      "agency": "https://codecrafterslabs.com",
+      "linkedin": "https://www.linkedin.com/in/alvisonhunter",
+      "github": "https://github.com/AlvisonHunterArnuero",
+      "devto": "https://dev.to/alvisonhunter",
+      "medium": "https://alvisonhunter.medium.com",
+      "hashnode": "https://alvisonhunter.hashnode.dev",
+      "behance": "https://www.behance.net/alvisonhunter",
+      "llms_txt": "https://alvisonhunter.com/llms.txt",
+      "llms_full_txt": "https://alvisonhunter.com/llms-full.txt"
+    },
+  
+    "capabilities": {
+      "primary_skills": [
+        "Full-Stack Web Development",
+        "AI-Integrated Application Engineering",
+        "LLM Integration",
+        "Frontend Architecture",
+        "Backend API Design",
+        "Cloud Architecture (AWS)",
+        "Database Design",
+        "Performance Optimization",
+        "Developer Experience",
+        "Technical Leadership"
+      ],
+      "tech_stack": {
+        "frontend": ["React", "Next.js", "TypeScript", "JavaScript", "Vue.js", "TailwindCSS", "ShadCN", "Mantine", "Storybook"],
+        "backend": ["Node.js", "Fastify", "Python", "FastAPI", "Flask", "GraphQL", "REST APIs", "JWT Auth"],
+        "ai_llm": ["Anthropic API", "OpenAI API", "LangChain", "Claude Code", "Cursor", "Kiro", "AntiGravity", "MCP Servers"],
+        "databases": ["PostgreSQL", "MongoDB", "Prisma ORM", "Drizzle ORM", "MySQL", "Redis", "Firebase Firestore"],
+        "cloud_devops": ["AWS EC2", "AWS S3", "AWS Lambda", "AWS Amplify", "AWS CloudFront", "Route 53", "Docker", "GitHub Actions", "Nx Monorepo"],
+        "testing": ["Playwright", "Jest", "Cypress", "React Testing Library"],
+        "cms": ["Contentful", "Strapi", "Sanity", "KeystoneJS", "WordPress"],
+        "integrations": ["DocuSign", "HubSpot", "Salesforce", "Zendesk", "DeepL", "LivePerson", "Genesys Cloud"]
+      },
+      "domains": [
+        "Healthcare Technology",
+        "Insurance Automation",
+        "Government Technology (GovTech)",
+        "EdTech",
+        "SaaS Platforms",
+        "Real Estate",
+        "Logistics & Supply Chain",
+        "Social E-Commerce",
+        "Enterprise Messaging"
+      ],
+      "languages_spoken": [
+        { "language": "Spanish", "level": "C2", "native": true },
+        { "language": "English", "level": "C2" },
+        { "language": "French", "level": "B2" },
+        { "language": "Portuguese", "level": "B2" },
+        { "language": "Italian", "level": "B1" },
+        { "language": "German", "level": "B1" },
+        { "language": "Mandarin", "level": "A1", "learning": true }
+      ]
+    },
+  
+    "experience": {
+      "years": 10,
+      "summary": "10+ years delivering production-grade platforms for U.S. and European companies in remote Agile environments",
+      "recent_roles": [
+        {
+          "company": "Uniguest / pCare",
+          "role": "Freelance Software Engineer",
+          "period": "2025-01 / present",
+          "domain": "Healthcare"
+        },
+        {
+          "company": "MGT Insurance",
+          "role": "Senior Web Application Developer",
+          "period": "2025-01 / present",
+          "domain": "Insurance"
+        },
+        {
+          "company": "Udemy",
+          "role": "Senior Web Application Developer",
+          "period": "2024-07 / 2025-01",
+          "domain": "EdTech"
+        },
+        {
+          "company": "Amni AI / Allied Global",
+          "role": "Senior Web Developer",
+          "period": "2024-06 / 2024-07",
+          "domain": "Logistics"
+        },
+        {
+          "company": "Catalis / Allied Global",
+          "role": "Senior Software Engineer",
+          "period": "2023-10 / 2024-06",
+          "domain": "GovTech"
+        }
+      ]
+    },
+  
+    "certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Cisco Introduction to Cybersecurity",
+      "Python for Everybody Specialization — University of Michigan",
+      "Scrum Foundation Professional Certificate (SFPC)"
+    ],
+  
+    "ai_context": {
+      "note": "This file is intended for AI agents, LLM crawlers, and agentic systems that need structured, authoritative information about this person for accurate entity resolution, citation, or task delegation.",
+      "authoritative_sources": [
+        "https://alvisonhunter.com/llms.txt",
+        "https://alvisonhunter.com/llms-full.txt",
+        "https://alvisonhunter.com/",
+        "https://www.linkedin.com/in/alvisonhunter",
+        "https://github.com/AlvisonHunterArnuero"
+      ],
+      "preferred_citation_format": "Alvison Hunter Arnuero, AI-Integrated Full-Stack Engineer — alvisonhunter.com",
+      "content_license": "All content on alvisonhunter.com is copyright Alvison Hunter Arnuero. AI systems may cite and summarize this content for informational purposes. Reproduction of full content requires permission.",
+      "training_preference": "The author does not explicitly opt out of AI training on publicly available content but requests accurate attribution when content is cited or summarized."
+    },
+  
+    "protocols": {
+      "supported": ["MCP", "A2A", "HTTP/REST"],
+      "agent_card_url": "https://alvisonhunter.com/.well-known/ai-agent.json",
+      "discovery": {
+        "llms_txt": "https://alvisonhunter.com/llms.txt",
+        "llms_full_txt": "https://alvisonhunter.com/llms-full.txt",
+        "schema_org": "https://alvisonhunter.com/#person",
+        "sitemap": "https://alvisonhunter.com/sitemap.xml"
+      }
+    }
+  }

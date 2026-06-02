@@ -1,0 +1,68 @@
+# Alvison Hunter Arnuero
+
+> AI-Integrated Full-Stack Engineer with 10+ years of experience designing and delivering scalable, high-performance web platforms across healthcare, insurance, GovTech, and SaaS. Specializes in React, Next.js, TypeScript, Node.js, Python, LangChain, and AWS cloud-native architectures. Available for remote work worldwide, with relocation possibilities.
+
+Alvison (Lucas) Hunter Arnuero is a senior software engineer based in Jinotepe, Carazo, Nicaragua. He has delivered production-grade systems for U.S. and European companies across multiple verticals. His current focus includes AI-augmented development workflows, LLM integration using the Anthropic API and LangChain (Python), and cloud-native architectures on AWS.
+
+He is the founder of CodeCrafters Labs, a web development and SEO agency based in Nicaragua, and has led engineering teams as Head of Web Development. He is multilingual: Spanish (native), English (C2), French and Portuguese (B2), Italian and German (B1), and is currently learning Mandarin.
+
+## Identity & Contact
+
+- **Full name:** Alvison Lucas Hunter Arnuero
+- **Preferred name:** Alvie
+- **Location:** Jinotepe, Carazo, Nicaragua — Remote Worldwide
+- **Email:** alvison@gmail.com
+- **Phone:** +505 8863 8751
+- **LinkedIn:** https://www.linkedin.com/in/alvisonhunter
+- **GitHub:** https://github.com/AlvisonHunterArnuero
+- **Portfolio:** https://alvisonhunter.com
+- **Agency:** https://codecrafterslabs.com
+
+## Core Technical Stack
+
+- **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Vue.js, Gatsby
+- **UI:** TailwindCSS, ShadCN, Mantine, Material UI, Storybook
+- **Backend:** Node.js, Fastify, Express, Python, FastAPI, Flask
+- **AI / LLM:** Anthropic API (Claude), OpenAI API, LangChain (Python), Cursor, Claude Code, Kiro, AntiGravity
+- **Databases:** PostgreSQL, MongoDB, Prisma ORM, Drizzle ORM, MySQL, SQL Server
+- **Cloud:** AWS (EC2, S3, Amplify, Lambda, CloudFront, Route 53), Docker, GitHub Actions, Nx Monorepo
+- **Testing:** Playwright, Jest, Cypress, React Testing Library
+- **CMS:** Contentful, Strapi, Sanity, KeystoneJS
+
+## Professional Experience
+
+- [Portfolio — alvisonhunter.com](https://alvisonhunter.com): Personal portfolio showcasing projects and professional history
+- **Uniguest / pCare** (Jan 2025–Present): Freelance Software Engineer on hospital patient engagement platform
+- **MGT Insurance** (Jan 2025–Present): Senior Web Application Developer — Next.js + Prisma + DocuSign + HubSpot
+- **Udemy** (Jul 2024–Jan 2025): Senior Web Application Developer — Python + React monorepo
+- **Amni AI / Allied Global** (Jun–Jul 2024): Senior Web Developer — Next.js + Drizzle ORM + AWS Amplify
+- **Catalis / Allied Global** (Oct 2023–Jun 2024): Senior Software Engineer — GovTech platforms for U.S. state agencies
+- **Truehold / Applaudo** (Mar–Oct 2023): Senior Frontend Developer — Real estate, Nx monorepo
+- **Semy** (Nov 2022–Feb 2023): Senior Full-Stack Software Engineer — React + Firebase, social e-commerce
+- **Chatlingual / Applaudo** (Aug 2021–Dec 2022): Senior Frontend Developer — Salesforce, Zendesk, DeepL integrations
+- **Microsoft** (Oct 2017–Sep 2019): Reporting Analyst — Python/VBA automation pipelines
+
+## Education & Certifications
+
+- Bachelor of Technology in Computer Programming — Universidad Nacional de Ingeniería, Nicaragua
+- AWS Certified Cloud Practitioner — Amazon Web Services
+- Python for Everybody Specialization — University of Michigan (Coursera)
+- Scrum Foundation Professional Certificate — CertiProf
+- Cisco Introduction to Cybersecurity — Cisco Networking Academy
+
+## Current Learning & Exploration
+
+- LangChain advanced patterns and RAG pipelines (Python)
+- Anthropic API advanced usage and Claude Code daily workflows
+- MCP Servers, AI Agents, and multi-model pipeline architecture
+- Model exploration: DeepSeek v4, MiMo-v2.5, Gemini, OpenAI OSS, Diffusion models
+- Programming languages: Golang, Elixir, Ruby
+- World languages: Mandarin Chinese, Dutch, Swedish
+
+## Optional
+
+- [Dev.to](https://dev.to/alvisonhunter): Engineering tutorials — frontend architecture, Next.js, React patterns
+- [Medium](https://alvisonhunter.medium.com): Developer productivity and career growth articles
+- [Hashnode](https://alvisonhunter.hashnode.dev): AI integration, LLM tooling, full-stack engineering
+- [Behance](https://www.behance.net/alvisonhunter): Design and UI work portfolio
+- [CodeCrafters Labs](https://codecrafterslabs.com): Web development agency — client projects, mentoring program
