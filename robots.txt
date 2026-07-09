@@ -12,4 +12,3 @@ Allow: /
 
 User-agent: *
 Allow: /
-Sitemap: http://alvisonhunter.com/sitemap.xml
